@@ -1,4 +1,4 @@
-계층 이름(Layer)/ 설명    /프로토콜 /전송단위 /장비
+계층 이름(Layer)/설명/프로토콜/전송단위/장비
 1.응용계층(Application)/사용자와 네트워크 간 응용서비스 연결,데이터 생성/HTTP,FTP/데이터(Data)/호스트(PC등)
 2.표현계층(Presentation)/데이터 형식설정,부호교환,암복호화/JPEG,MPEG/데이터(Data)/호스트(PC등)
 3.세션계층(Session)/송수신간의 논리적인 연결, 연결접속,동기제어/RPC,NetBIOS/데이터(Data)/호스트(PC등)
